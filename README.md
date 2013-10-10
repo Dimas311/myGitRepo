@@ -1,4 +1,0 @@
-myGitRepo
-=========
-
-my Git repositaty
